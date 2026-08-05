@@ -1,0 +1,3 @@
+## Reflection Note
+
+With more time, I would automate daily inventory checks and generate automatic reorder alerts. I would also save historical inventory data for future analysis and build a simple Django web interface for easier inventory management.
